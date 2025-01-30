@@ -200,6 +200,9 @@
     },
     "custom-banner": {
     "type": "custom-banner"
+    }, 
+    "custom-featured-banner" : {
+      "type" : "custom-featured-banner"
     }
 
   },
@@ -210,6 +213,7 @@
     "collage",
     "video",
     "custom-banner",
+    "custom-featured-banner",
     "multicolumn"
   ]
 }
